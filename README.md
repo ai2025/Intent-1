@@ -1,10 +1,16 @@
 # Intent-1
-Aplikasi ini merupakan form pendaftaran untuk mengikuti seminar.
+
+Screenshoot
 
 
-![ScreenShoot](https://github.com/ai2025/FormSeminar/blob/master/1.%20Tampilan%20awal.PNG "")
-![ScreenShoot](https://github.com/ai2025/FormSeminar/blob/master/2.%20pengisian%20form.PNG "")
-![ScreenShoot](https://github.com/ai2025/FormSeminar/blob/master/3.%20validasi.PNG "")
-![ScreenShoot](https://github.com/ai2025/FormSeminar/blob/master/4.%20tampilan%20hasil.PNG "")
+![ScreenShoot](https://github.com/ai2025/Intent-1/blob/master/1.png "")
+![ScreenShoot](https://github.com/ai2025/Intent-1/blob/master/2.png "")
+![ScreenShoot](https://github.com/ai2025/Intent-1/blob/master/3.png "")
+![ScreenShoot](https://github.com/ai2025/Intent-1/blob/master/4.png "")
 
-SEKIAN, DAN TERIMAKASIH
+
+* Nama : Aisyatush Shofiah
+* Kelas : XIRPL2
+* No. Absen : 01
+* NIS : 4654/1373.070
+* Sekolah : SMK Telkom Malang
